@@ -4,7 +4,7 @@
     <groupId>io.git.restassured</groupId>
     <artifactId>RestAssured</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>RestAssured PoC</name>
+    <name>RestAssured Demo</name>
 
     <properties>
         <rest-assured.version>3.1.1</rest-assured.version>
